@@ -1,0 +1,74 @@
+h1 {
+    color: rgb(171, 15, 202)
+}
+
+div {
+    background-color: aquamarine;
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
+}
+.caixa-do-meio
+
+{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+
+    border: 25px salmon;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #c7d141;
+}
+
+h2 {
+    color: #444;
+}
+
+h3 {
+    color: #555;
+}
+
+p {
+    color: #666;
+}
+
+footer {
+    margin-top: 20px;
+}

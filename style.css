@@ -39,7 +39,7 @@ header, footer {
 }
 
 .content {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
@@ -47,14 +47,15 @@ header, footer {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
-    display: block;
+    display: inline-block;
     margin: 0 auto;
 }
 
 h1 {
     color: #c7d141;
+    text-align: center; 
 }
 
 h2 {
@@ -63,12 +64,36 @@ h2 {
 
 h3 {
     color: #555;
+    text-align: right;
 }
 
 p {
     color: #666;
+    text-align: justify;
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 30px;
+}
+header, footer {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha em telas menores */
+}
+
+.content h3, .content p, .content img {
+    flex: 1; /* Distribui espaço igualmente entre os itens */
+    margin: 20px; /* Espaçamento entre os itens */
+    text-align: center; /* Centraliza o texto */
+}
+header, footer {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100px; /* Defina uma altura para o cabeçalho e rodapé (ajuste conforme necessário) */
 }

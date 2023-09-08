@@ -1,6 +1,7 @@
 # ESTUDOS-PROZ-EDU
-Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
+Durante o curso da Proz Edu, os alunos têm a oportunidade de se envolver em uma variedade de atividades que enriquecem sua experiência educacional e os preparam para os desafios futuros. Essas atividades abrangem áreas acadêmicas, sociais e pessoais, contribuindo para o desenvolvimento integral dos estudantes.
+Além disso, a Proz Edu valoriza o desenvolvimento pessoal dos alunos, incentivando-os a participar de programas de orientação e mentoramento. Isso ajuda a orientar os estudantes em suas escolhas de carreira e a desenvolver habilidades interpessoais importantes.
 
-Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.  
+Ao longo do curso da Proz Edu, os alunos são desafiados a se superarem, a explorarem novos horizontes e a se tornarem profissionais competentes e cidadãos conscientes. As atividades oferecidas pela instituição desempenham um papel fundamental nesse processo, preparando os alunos não apenas para o sucesso acadêmico, mas também para uma vida significativa e realizada.
 
-Fiz uma pagina da capital opnde eu moro .
+Durante o curso, realizei diversas atividades com o único propósito de aprendizado, ciente de que estas poderiam conter erros e acertos. Encarei cada desafio como uma oportunidade de crescimento, sabendo que os erros são parte essencial do processo de aprendizagem. Estar aberto a cometer equívocos me permitiu adquirir conhecimento de forma mais profunda e refinada, além de desenvolver habilidades valiosas ao longo do percurso educacional.
